@@ -4,5 +4,7 @@ This application can be use as an Object Detection Sensor on the conveyor machin
 
 note: To run this application in matlab, you need to have Image Acquisition Toolbox to run it.
 
+https://youtu.be/q2oavXbWLik
+
 By : Nawaf Mohammed Alhazza 
      ,Saria Alhariri
